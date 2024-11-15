@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\component",
+    "\\src\\app\\crypto",
+    "\\src\\app\\netflix",
+    "\\src\\app\\property",
+    "\\src\\app\\twitch"
+  ],
+  "SelectedNode": "\\src\\app\\component\\ProjectItem.jsx",
+  "PreviewInSolutionExplorer": false
+}
